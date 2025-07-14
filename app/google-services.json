@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613836245496",
+    "firebase_url": "https://library-book-app-kotlin-default-rtdb.firebaseio.com",
+    "project_id": "library-book-app-kotlin",
+    "storage_bucket": "library-book-app-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613836245496:android:af958bd8106c748ec86e0d",
+        "android_client_info": {
+          "package_name": "com.example.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2N4R-ESKo4haSd3Z9oc34V5cnZh1ebg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1568 @@
+Folder PATH listing
+Volume serial number is DA18-AAA0
+C:.
+³   .gitignore
+³   build.gradle.kts
+³   gradle.properties
+³   gradlew
+³   gradlew.bat
+³   local.properties
+³   settings.gradle.kts
+³   structure.txt
+³   
+ÃÄÄÄ.gradle
+³   ³   config.properties
+³   ³   file-system.probe
+³   ³   
+³   ÃÄÄÄ8.11.1
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄchecksums
+³   ³   ³       checksums.lock
+³   ³   ³       md5-checksums.bin
+³   ³   ³       sha1-checksums.bin
+³   ³   ³       
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄexpanded
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       outputFiles.bin
+³   ³       
+³   ÃÄÄÄkotlin
+³   ³   ÀÄÄÄerrors
+³   ÀÄÄÄvcs-1
+³           gc.properties
+³           
+ÃÄÄÄ.idea
+³   ³   .gitignore
+³   ³   .name
+³   ³   AndroidProjectSystem.xml
+³   ³   appInsightsSettings.xml
+³   ³   assetWizardSettings.xml
+³   ³   compiler.xml
+³   ³   deploymentTargetSelector.xml
+³   ³   gradle.xml
+³   ³   kotlinc.xml
+³   ³   migrations.xml
+³   ³   misc.xml
+³   ³   runConfigurations.xml
+³   ³   vcs.xml
+³   ³   workspace.xml
+³   ³   
+³   ÀÄÄÄcaches
+³           deviceStreaming.xml
+³           
+ÃÄÄÄ.kotlin
+³   ÃÄÄÄerrors
+³   ³       errors-1742666310113.log
+³   ³       
+³   ÀÄÄÄsessions
+ÃÄÄÄapp
+³   ³   .gitignore
+³   ³   build.gradle.kts
+³   ³   google-services.json
+³   ³   proguard-rules.pro
+³   ³   
+³   ÃÄÄÄbuild
+³   ³   ÃÄÄÄcrashlytics
+³   ³   ³   ÀÄÄÄdebug
+³   ³   ³           mappingFileId.txt
+³   ³   ³           
+³   ³   ÃÄÄÄgenerated
+³   ³   ³   ÃÄÄÄap_generated_sources
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdata_binding_base_class_source_out
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄout
+³   ³   ³   ³           ÀÄÄÄcom
+³   ³   ³   ³               ÀÄÄÄexample
+³   ³   ³   ³                   ÀÄÄÄbookapp
+³   ³   ³   ³                       ÀÄÄÄdatabinding
+³   ³   ³   ³                               ActivityCategoryAddBinding.java
+³   ³   ³   ³                               ActivityDashboardAdminBinding.java
+³   ³   ³   ³                               ActivityDashboardUserBinding.java
+³   ³   ³   ³                               ActivityForgotPasswordBinding.java
+³   ³   ³   ³                               ActivityLoginBinding.java
+³   ³   ³   ³                               ActivityMainBinding.java
+³   ³   ³   ³                               ActivityPdfAddBinding.java
+³   ³   ³   ³                               ActivityPdfDetailBinding.java
+³   ³   ³   ³                               ActivityPdfEditBinding.java
+³   ³   ³   ³                               ActivityPdfListAdminBinding.java
+³   ³   ³   ³                               ActivityPdfViewBinding.java
+³   ³   ³   ³                               ActivityRegisterBinding.java
+³   ³   ³   ³                               ActivitySplashBinding.java
+³   ³   ³   ³                               FragmentBookUserBinding.java
+³   ³   ³   ³                               RowCategoryBinding.java
+³   ³   ³   ³                               RowPdfAdminBinding.java
+³   ³   ³   ³                               RowPdfUserBinding.java
+³   ³   ³   ³                               
+³   ³   ³   ÀÄÄÄres
+³   ³   ³       ÃÄÄÄinjectCrashlyticsMappingFileIdDebug
+³   ³   ³       ³   ÀÄÄÄvalues
+³   ³   ³       ³           com_google_firebase_crashlytics_mappingfileid.xml
+³   ³   ³       ³           
+³   ³   ³       ÃÄÄÄpngs
+³   ³   ³       ³   ÀÄÄÄdebug
+³   ³   ³       ÃÄÄÄprocessDebugGoogleServices
+³   ³   ³       ³   ÀÄÄÄvalues
+³   ³   ³       ³           values.xml
+³   ³   ³       ³           
+³   ³   ³       ÀÄÄÄresValues
+³   ³   ³           ÀÄÄÄdebug
+³   ³   ÃÄÄÄgmpAppId
+³   ³   ³       debug.txt
+³   ³   ³       
+³   ³   ÃÄÄÄintermediates
+³   ³   ³   ÃÄÄÄaar_metadata_check
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcheckDebugAarMetadata
+³   ³   ³   ÃÄÄÄannotation_processor_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄjavaPreCompileDebug
+³   ³   ³   ³               annotationProcessors.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄapk
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³           app-debug.apk
+³   ³   ³   ³           output-metadata.json
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄapk_ide_redirect_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcreateDebugApkListingFileRedirect
+³   ³   ³   ³               redirect.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄapp_metadata
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄwriteDebugAppMetadata
+³   ³   ³   ³               app-metadata.properties
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄassets
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugAssets
+³   ³   ³   ÃÄÄÄcompatible_screen_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcreateDebugCompatibleScreenManifests
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcompile_and_runtime_not_namespaced_r_class_jar
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³               R.jar
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄcompressed_assets
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcompressDebugAssets
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄdata_binding_base_class_log_artifact
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdataBindingGenBaseClassesDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³                   com.example.bookapp-binding_classes.json
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄdata_binding_dependency_artifacts
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdataBindingMergeDependencyArtifactsDebug
+³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_merge
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³                   activity_category_add-layout.xml
+³   ³   ³   ³                   activity_dashboard_admin-layout.xml
+³   ³   ³   ³                   activity_dashboard_user-layout.xml
+³   ³   ³   ³                   activity_forgot_password-layout.xml
+³   ³   ³   ³                   activity_login-layout.xml
+³   ³   ³   ³                   activity_main-layout.xml
+³   ³   ³   ³                   activity_pdf_add-layout.xml
+³   ³   ³   ³                   activity_pdf_detail-layout.xml
+³   ³   ³   ³                   activity_pdf_edit-layout.xml
+³   ³   ³   ³                   activity_pdf_list_admin-layout.xml
+³   ³   ³   ³                   activity_pdf_view-layout.xml
+³   ³   ³   ³                   activity_register-layout.xml
+³   ³   ³   ³                   activity_splash-layout.xml
+³   ³   ³   ³                   fragment_book_user-layout.xml
+³   ³   ³   ³                   row_category-layout.xml
+³   ³   ³   ³                   row_pdf_admin-layout.xml
+³   ³   ³   ³                   row_pdf_user-layout.xml
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄdata_binding_layout_info_type_package
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³                   activity_category_add-layout.xml
+³   ³   ³   ³                   activity_dashboard_admin-layout.xml
+³   ³   ³   ³                   activity_dashboard_user-layout.xml
+³   ³   ³   ³                   activity_forgot_password-layout.xml
+³   ³   ³   ³                   activity_login-layout.xml
+³   ³   ³   ³                   activity_main-layout.xml
+³   ³   ³   ³                   activity_pdf_add-layout.xml
+³   ³   ³   ³                   activity_pdf_detail-layout.xml
+³   ³   ³   ³                   activity_pdf_edit-layout.xml
+³   ³   ³   ³                   activity_pdf_list_admin-layout.xml
+³   ³   ³   ³                   activity_pdf_view-layout.xml
+³   ³   ³   ³                   activity_register-layout.xml
+³   ³   ³   ³                   activity_splash-layout.xml
+³   ³   ³   ³                   fragment_book_user-layout.xml
+³   ³   ³   ³                   row_category-layout.xml
+³   ³   ³   ³                   row_pdf_admin-layout.xml
+³   ³   ³   ³                   row_pdf_user-layout.xml
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄdesugar_graph
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ÃÄÄÄcurrentProject
+³   ³   ³   ³               ³   ÃÄÄÄdirs_bucket_0
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄdirs_bucket_1
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄdirs_bucket_2
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄdirs_bucket_3
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄjar_d49347c60fd4696b8cc53d40204d4ee6d74ebf2085ce314a282cdd09aab72fa3_bucket_0
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄjar_d49347c60fd4696b8cc53d40204d4ee6d74ebf2085ce314a282cdd09aab72fa3_bucket_1
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÃÄÄÄjar_d49347c60fd4696b8cc53d40204d4ee6d74ebf2085ce314a282cdd09aab72fa3_bucket_2
+³   ³   ³   ³               ³   ³       graph.bin
+³   ³   ³   ³               ³   ³       
+³   ³   ³   ³               ³   ÀÄÄÄjar_d49347c60fd4696b8cc53d40204d4ee6d74ebf2085ce314a282cdd09aab72fa3_bucket_3
+³   ³   ³   ³               ³           graph.bin
+³   ³   ³   ³               ³           
+³   ³   ³   ³               ÃÄÄÄexternalLibs
+³   ³   ³   ³               ÃÄÄÄmixedScopes
+³   ³   ³   ³               ÀÄÄÄotherProjects
+³   ³   ³   ÃÄÄÄdex
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÃÄÄÄmergeExtDexDebug
+³   ³   ³   ³       ³       classes.dex
+³   ³   ³   ³       ³       classes2.dex
+³   ³   ³   ³       ³       classes3.dex
+³   ³   ³   ³       ³       
+³   ³   ³   ³       ÃÄÄÄmergeLibDexDebug
+³   ³   ³   ³       ³   ÃÄÄÄ0
+³   ³   ³   ³       ³   ÃÄÄÄ1
+³   ³   ³   ³       ³   ÃÄÄÄ10
+³   ³   ³   ³       ³   ÃÄÄÄ11
+³   ³   ³   ³       ³   ÃÄÄÄ12
+³   ³   ³   ³       ³   ÃÄÄÄ13
+³   ³   ³   ³       ³   ÃÄÄÄ14
+³   ³   ³   ³       ³   ÃÄÄÄ15
+³   ³   ³   ³       ³   ÃÄÄÄ2
+³   ³   ³   ³       ³   ÃÄÄÄ3
+³   ³   ³   ³       ³   ÃÄÄÄ4
+³   ³   ³   ³       ³   ÃÄÄÄ5
+³   ³   ³   ³       ³   ÃÄÄÄ6
+³   ³   ³   ³       ³   ÃÄÄÄ7
+³   ³   ³   ³       ³   ÃÄÄÄ8
+³   ³   ³   ³       ³   ÀÄÄÄ9
+³   ³   ³   ³       ÀÄÄÄmergeProjectDexDebug
+³   ³   ³   ³           ÃÄÄÄ0
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ1
+³   ³   ³   ³           ÃÄÄÄ10
+³   ³   ³   ³           ÃÄÄÄ11
+³   ³   ³   ³           ³       classes.dex
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄ12
+³   ³   ³   ³           ÃÄÄÄ13
+³   ³   ³   ³           ÃÄÄÄ14
+³   ³   ³   ³           ÃÄÄÄ15
+³   ³   ³   ³           ÃÄÄÄ2
+³   ³   ³   ³           ÃÄÄÄ3
+³   ³   ³   ³           ÃÄÄÄ4
+³   ³   ³   ³           ÃÄÄÄ5
+³   ³   ³   ³           ÃÄÄÄ6
+³   ³   ³   ³           ÃÄÄÄ7
+³   ³   ³   ³           ÃÄÄÄ8
+³   ³   ³   ³           ÀÄÄÄ9
+³   ³   ³   ³                   classes.dex
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄdex_archive_input_jar_hashes
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³               out
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄdex_number_of_buckets_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³               out
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄduplicate_classes_check
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcheckDebugDuplicateClasses
+³   ³   ³   ÃÄÄÄexternal_file_lib_dex_archives
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdesugarDebugFileDependencies
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄexternal_libs_dex_archive_with_artifact_transforms
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄincremental
+³   ³   ³   ³   ÃÄÄÄdataBindingGenBaseClassesDebug
+³   ³   ³   ³   ³       base_builder_log.json
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄdebug
+³   ³   ³   ³   ³   ÃÄÄÄmergeDebugResources
+³   ³   ³   ³   ³   ³   ³   compile-file-map.properties
+³   ³   ³   ³   ³   ³   ³   merger.xml
+³   ³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ³   ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³   ³   ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³   ³       ÀÄÄÄlayout
+³   ³   ³   ³   ³   ³               activity_forgot_password.xml
+³   ³   ³   ³   ³   ³               
+³   ³   ³   ³   ³   ÀÄÄÄpackageDebugResources
+³   ³   ³   ³   ³       ³   compile-file-map.properties
+³   ³   ³   ³   ³       ³   merger.xml
+³   ³   ³   ³   ³       ³   
+³   ³   ³   ³   ³       ÃÄÄÄmerged.dir
+³   ³   ³   ³   ³       ÀÄÄÄstripped.dir
+³   ³   ³   ³   ³           ÀÄÄÄlayout
+³   ³   ³   ³   ³                   activity_forgot_password.xml
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÃÄÄÄdebug-mergeJavaRes
+³   ³   ³   ³   ³   ³   merge-state
+³   ³   ³   ³   ³   ³   
+³   ³   ³   ³   ³   ÀÄÄÄzip-cache
+³   ³   ³   ³   ³           +q173OpEVfoTz9UYotXcZsO+S28=
+³   ³   ³   ³   ³           1AULLoZzpZfeQgl2A_Ec0dKwCjM=
+³   ³   ³   ³   ³           1mn2Q_pfXB_reK0Fo3J4GZJTvLg=
+³   ³   ³   ³   ³           2kRtoR3bACkcNLXpkRa_QcICzJw=
+³   ³   ³   ³   ³           3j+oDMOoq1nu6vXrJE12jatham8=
+³   ³   ³   ³   ³           3_ToIJNrhFMX5HNr7Gqes_dfwYM=
+³   ³   ³   ³   ³           5UcnnDZZPGQrjwXVrH5WHl0YrtI=
+³   ³   ³   ³   ³           7aLmPOTPGIYqyz3hHg1oxS4t_oo=
+³   ³   ³   ³   ³           7I8q8uN3s0EkHkmHZCDTxtW5b_U=
+³   ³   ³   ³   ³           7lsil6A6rQm38YSF_KTZOAxhPKo=
+³   ³   ³   ³   ³           7TcvQHS23ZlT6QpujOFaTqqB9yc=
+³   ³   ³   ³   ³           9LTdrEw31WPGidzd4WNWbVbUEbY=
+³   ³   ³   ³   ³           9ylVlDaY5dfIqY2hz0oTFL2gRoI=
+³   ³   ³   ³   ³           a+i7WoCokX8QfZsCmUrUn1NDeYk=
+³   ³   ³   ³   ³           a94Qjb6npQBr0IGvBp5L_qgV8fU=
+³   ³   ³   ³   ³           aw6YRTEwRzFZogCCiZgyNIrEpOU=
+³   ³   ³   ³   ³           bbVq1lJMz0Ha+GDXQ69bp9LWlsw=
+³   ³   ³   ³   ³           bMgLs7nXiwuLyRQMOi0D9UgAK7s=
+³   ³   ³   ³   ³           bSLd_PMqMrU_OPy1HeGxYj3j8mA=
+³   ³   ³   ³   ³           Cm1vZlc_0Kc18AF8vmm2bjl29aU=
+³   ³   ³   ³   ³           cNM9EjucUsY9bTsiJ76wfpfbPl0=
+³   ³   ³   ³   ³           D3F5w5EABQGMETfJhHXsh3NniQs=
+³   ³   ³   ³   ³           di8gNh91e_K+rvIJSvYLKV1tyWI=
+³   ³   ³   ³   ³           dKXyOOIJirqNx1__Qwf1bVfig8M=
+³   ³   ³   ³   ³           e3LRlOyG0XI5lxiwFEjqbBU47S4=
+³   ³   ³   ³   ³           e4uxPQOdrLidjf7VnHeNoq5a4GI=
+³   ³   ³   ³   ³           E5Ae_asl8Gb_fNJS9bv4ug_mlDU=
+³   ³   ³   ³   ³           eaVOyprjlAiOOIzXwJSckSW2egU=
+³   ³   ³   ³   ³           efeWFwEkE1z7MhqE2cziahEbWwk=
+³   ³   ³   ³   ³           eXiinNXN5LTnmtI+Hy6gZb7EE1E=
+³   ³   ³   ³   ³           f13YnG5T24HY5hwaMk2B9n1KqmA=
+³   ³   ³   ³   ³           F4xfCepgEzk4_A5Emoxn4vcMp2I=
+³   ³   ³   ³   ³           F5N4x0XCuTPiGxDJwa3UBg3U8hk=
+³   ³   ³   ³   ³           FDJsrWHEouZR2FNaGtzkrifz5rA=
+³   ³   ³   ³   ³           FFMYyL4oXUcwAZrDuI6MV4q7V6c=
+³   ³   ³   ³   ³           FldIyib8H8Bh4w6_yPpFe0VZXA4=
+³   ³   ³   ³   ³           fniJUejPdQQLd9bvxSnBoJineMw=
+³   ³   ³   ³   ³           fOYC2oVrA2vqSY73TS_TDNWtfbs=
+³   ³   ³   ³   ³           fQvUNvwvUD88cwzkuDyonFJiIdI=
+³   ³   ³   ³   ³           g+IGUTtgTEGsgjdUVXgEjYy5s9k=
+³   ³   ³   ³   ³           g6BtLZopvR76uz5bcb+GH8oex04=
+³   ³   ³   ³   ³           g7yIx2jJkFnR8el0Jq_YE14cjso=
+³   ³   ³   ³   ³           g9JafgtSjm2mOL+I0etP81L5su4=
+³   ³   ³   ³   ³           gCYOo+U7Ak9b8qG143_iVVuhdKk=
+³   ³   ³   ³   ³           geabV0kYFCPMtBrI+9sHw1Zyseg=
+³   ³   ³   ³   ³           GFSJeGPGbAqxFaoMGJYh+GnLNmA=
+³   ³   ³   ³   ³           hbmrAi4RLyo1L136mw3C6d91aYo=
+³   ³   ³   ³   ³           hdD4c0eUnL3zzMfMCg03apg3pnQ=
+³   ³   ³   ³   ³           hlAcI0ljNhw7Jed7zHkt0+t6oK8=
+³   ³   ³   ³   ³           Ho_azrxVCwnHkWUhJCyCxh3cRyo=
+³   ³   ³   ³   ³           HpMJKzZ2L6rZfjHnL3yRZqc0AUs=
+³   ³   ³   ³   ³           HvLvZqj8Sbo5k8cu0zY10vfBQGU=
+³   ³   ³   ³   ³           hwlYKGCGfet4l0VVwXpcFK6oBA0=
+³   ³   ³   ³   ³           HWwI4TJgAPMbzEYjRT7NK8taA1Q=
+³   ³   ³   ³   ³           HZibTymvnaZlVqO6RGmEu1GAKYw=
+³   ³   ³   ³   ³           I5_1sGp+F7jgNZayTFOO9seyvR8=
+³   ³   ³   ³   ³           INTcmYaArkjYMoEuriWNoPgB0kI=
+³   ³   ³   ³   ³           iXZ+VeRBzR68VC_2AE2koQ0EofY=
+³   ³   ³   ³   ³           jitcClKhMYNy+uHPkrv2k_8QTMY=
+³   ³   ³   ³   ³           jK9hdEth0Mqg12T8QCQdcMcvtzQ=
+³   ³   ³   ³   ³           K+WFslrnTRCe0uPnQMJn3GsGb3o=
+³   ³   ³   ³   ³           K0dK9nJ3ajfqamECPHOagA1p8TY=
+³   ³   ³   ³   ³           K2o+iM0MHE0CMvBxhaPsgUfJc14=
+³   ³   ³   ³   ³           kBxsuhSsIQQfuDUbMOsMIWs7CC0=
+³   ³   ³   ³   ³           Kcf3cHFQ0v_e1yDTmfkmkd6e2HE=
+³   ³   ³   ³   ³           kLJzgKGafBns6d0NRiBjrFeqzi4=
+³   ³   ³   ³   ³           KVPS1tjpxLggxcs686Ab1wv7Wqs=
+³   ³   ³   ³   ³           L4r5NAW1i3TFEzoa1WUYzX2Ro68=
+³   ³   ³   ³   ³           l5FsYb6pfntNkCQv1ocGiABR+1w=
+³   ³   ³   ³   ³           l6V_Mblnug3BOoVwUBHZx6TzdiI=
+³   ³   ³   ³   ³           lF6ZOScLyve86dWEdiI4J7cYdGY=
+³   ³   ³   ³   ³           LkvbKKtWZ8AvXpFMaGmwq6EQbMk=
+³   ³   ³   ³   ³           lnsgXKPHLS6ZCMZojHk316wX078=
+³   ³   ³   ³   ³           loLEOV972Bgkca9CJgwQs8CwbpQ=
+³   ³   ³   ³   ³           lVz7yS2f2L_YM_TAiiZsjbx_6H4=
+³   ³   ³   ³   ³           M2tteuTDtk9hUZgNESGXW6bLXYs=
+³   ³   ³   ³   ³           MB8jiyiftbqLqeyJCSfn3h2tzPE=
+³   ³   ³   ³   ³           MC6M7XaQzpXkxF2PUKlfMFZGmGI=
+³   ³   ³   ³   ³           mU5hUjrLrVyn7veHn7lu+r9oEIk=
+³   ³   ³   ³   ³           My4uYr_vMGMHU4GP+GAM4uxzJAs=
+³   ³   ³   ³   ³           n4WHGWsPGtMCIC4e85RMH9kTsqA=
+³   ³   ³   ³   ³           npB7ZnwgqEeHAySXT8P39pIL1b8=
+³   ³   ³   ³   ³           o2GftQY4lgLVf9mMcyzYmiDRLX4=
+³   ³   ³   ³   ³           oGvNWb1s4PbVbrsOkn7vAVEj8oc=
+³   ³   ³   ³   ³           OP5b816N3EGZXZbH6al32Rj1RqU=
+³   ³   ³   ³   ³           OsEJt3TMgowzUZimsm1V7O0fxnU=
+³   ³   ³   ³   ³           p69l78mzFfHw77N_DiLKE0pFXmo=
+³   ³   ³   ³   ³           Pb08DNA8l+elSIEgbHKIVtodvAw=
+³   ³   ³   ³   ³           pbWji7neHz_LNdEr4Rx295n5vYk=
+³   ³   ³   ³   ³           PFb9H2obgzm_Rhg3gmS4Ssmskfw=
+³   ³   ³   ³   ³           phFV7XrIaFfaVq779zDi3WbROQ0=
+³   ³   ³   ³   ³           POvApG_IP945tRI25uN29cHYtRc=
+³   ³   ³   ³   ³           pSVeWioaFvo8cFGYRX2s1ofANvE=
+³   ³   ³   ³   ³           q0A6AD5p1HsfOAox_BLWXjYG9qM=
+³   ³   ³   ³   ³           QAF_Q3C4bGfPEuYs_LJQkdv5LC0=
+³   ³   ³   ³   ³           QDijGJCzW+X8ReOLS8T6rEBKOpk=
+³   ³   ³   ³   ³           QFg6viz+KMoaeYbgy5p_E869gg8=
+³   ³   ³   ³   ³           R0sXSEZGxY4q0A9h88KhHm_YOPc=
+³   ³   ³   ³   ³           RaJV75Q+pZL4FkQZuCFYsla5PVs=
+³   ³   ³   ³   ³           rCeQp2FPgO0j2JLQfWA9IUyiT+c=
+³   ³   ³   ³   ³           ReTLkgJGExaH_Folw9MI6CnkWI4=
+³   ³   ³   ³   ³           RiDTRb3lTAz0aF_snQbdyh1WTXc=
+³   ³   ³   ³   ³           RYwpdV5lM8GGQEfT5weyPoQU5ec=
+³   ³   ³   ³   ³           S1VtwLU54bxJs0pyKaRx6NzjvAA=
+³   ³   ³   ³   ³           S2g4rVcyKi8gcIPTEkLU1FLr_ik=
+³   ³   ³   ³   ³           s929a1_keQTb6GprdERR2lS0R8k=
+³   ³   ³   ³   ³           sbV95GEG6WOpb1Zt6TvjtU2SQ+M=
+³   ³   ³   ³   ³           ssdwdQDLZTTedYqxxqUQ+kXV5Tk=
+³   ³   ³   ³   ³           t9IoQJbszO9JiClJl0hG30sldsA=
+³   ³   ³   ³   ³           TBzrF7bkEvBCGD2Bo94I2r3cgWg=
+³   ³   ³   ³   ³           u0S6OjK7uw_fKySyRMPL6Zrufgk=
+³   ³   ³   ³   ³           UhhvpBo47cjSkRJN5uouJmh2jJo=
+³   ³   ³   ³   ³           ULbctNSdxUXpvOZhl6CTqF4zcck=
+³   ³   ³   ³   ³           uS0mnA+EswX7FxUggzeVhYe4rQw=
+³   ³   ³   ³   ³           uvG1jr0RltwaQjn66QK9lN_lqdg=
+³   ³   ³   ³   ³           vNZlHW2udkPIjRPRqbKrSx1ttRc=
+³   ³   ³   ³   ³           vXdwraEtBFlB2b6zpn7VqEqGY58=
+³   ³   ³   ³   ³           VYaBbS7DcdMyaZw7zUE3pGE38_A=
+³   ³   ³   ³   ³           WeZUsrb_C1caFTx6sP2RkKbpya8=
+³   ³   ³   ³   ³           Xhoxm4EUMC_CwQYw8YRdk87HbIc=
+³   ³   ³   ³   ³           XmvV+LQQrQBOi6tBTfqeq1Ovluc=
+³   ³   ³   ³   ³           YICWNcWFJCFooSPikQa1MdIrKvE=
+³   ³   ³   ³   ³           Yl1XH7V8XbqyDzI9lZFl0Ofeu3s=
+³   ³   ³   ³   ³           YmgnHkggKylknmWqqhm9eF5ptuc=
+³   ³   ³   ³   ³           zaqHj934iuy9JRYbz8Ql3jsmFIY=
+³   ³   ³   ³   ³           ZGiEISsDeaksOJGGm8ata8v9SGs=
+³   ³   ³   ³   ³           ZIQXbSZtFHRuYqMOAInBylAw4pc=
+³   ³   ³   ³   ³           zr7KS4roy2zbBdIzziJMIp2tZN4=
+³   ³   ³   ³   ³           ZTev8jBCtJhjL447ZkllGC4Ggns=
+³   ³   ³   ³   ³           ZVJEZcfCrbh+ezcFMTad8wn3Lxc=
+³   ³   ³   ³   ³           zZ_vIY+uX25DkJdE2RoJPPiFaro=
+³   ³   ³   ³   ³           Z_kpslR_ZouCz8D1fs7FB3msn+w=
+³   ³   ³   ³   ³           _NHAY9UpxybZi_8STpjjj504AOM=
+³   ³   ³   ³   ³           
+³   ³   ³   ³   ÃÄÄÄmergeDebugAssets
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugJniLibFolders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄmergeDebugShaders
+³   ³   ³   ³   ³       merger.xml
+³   ³   ³   ³   ³       
+³   ³   ³   ³   ÃÄÄÄpackageDebug
+³   ³   ³   ³   ³   ÀÄÄÄtmp
+³   ³   ³   ³   ³       ÀÄÄÄdebug
+³   ³   ³   ³   ³           ³   dex-renamer-state.txt
+³   ³   ³   ³   ³           ³   
+³   ³   ³   ³   ³           ÀÄÄÄzip-cache
+³   ³   ³   ³   ³                   androidResources
+³   ³   ³   ³   ³                   javaResources0
+³   ³   ³   ³   ³                   
+³   ³   ³   ³   ÀÄÄÄprocessDebugResources
+³   ³   ³   ³           resources-list-for-linked-resources-binary-format-debug.ap_.txt
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄjavac
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄcompileDebugJavaWithJavac
+³   ³   ³   ³           ÀÄÄÄclasses
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄexample
+³   ³   ³   ³                       ÀÄÄÄbookapp
+³   ³   ³   ³                           ÀÄÄÄdatabinding
+³   ³   ³   ³                                   ActivityCategoryAddBinding.class
+³   ³   ³   ³                                   ActivityDashboardAdminBinding.class
+³   ³   ³   ³                                   ActivityDashboardUserBinding.class
+³   ³   ³   ³                                   ActivityForgotPasswordBinding.class
+³   ³   ³   ³                                   ActivityLoginBinding.class
+³   ³   ³   ³                                   ActivityMainBinding.class
+³   ³   ³   ³                                   ActivityPdfAddBinding.class
+³   ³   ³   ³                                   ActivityPdfDetailBinding.class
+³   ³   ³   ³                                   ActivityPdfEditBinding.class
+³   ³   ³   ³                                   ActivityPdfListAdminBinding.class
+³   ³   ³   ³                                   ActivityPdfViewBinding.class
+³   ³   ³   ³                                   ActivityRegisterBinding.class
+³   ³   ³   ³                                   ActivitySplashBinding.class
+³   ³   ³   ³                                   FragmentBookUserBinding.class
+³   ³   ³   ³                                   RowCategoryBinding.class
+³   ³   ³   ³                                   RowPdfAdminBinding.class
+³   ³   ³   ³                                   RowPdfUserBinding.class
+³   ³   ³   ³                                   
+³   ³   ³   ÃÄÄÄjava_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugJavaRes
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ÃÄÄÄcom
+³   ³   ³   ³               ³   ÀÄÄÄexample
+³   ³   ³   ³               ³       ÀÄÄÄbookapp
+³   ³   ³   ³               ÀÄÄÄMETA-INF
+³   ³   ³   ³                       app_debug.kotlin_module
+³   ³   ³   ³                       
+³   ³   ³   ÃÄÄÄlinked_resources_binary_format
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³               linked-resources-binary-format-debug.ap_
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄlocal_only_symbol_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄparseDebugLocalResources
+³   ³   ³   ³               R-def.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmanifest_merge_blame_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugMainManifest
+³   ³   ³   ³               manifest-merger-blame-debug-report.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmerged_java_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugJavaResource
+³   ³   ³   ³               base.jar
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmerged_jni_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugJniLibFolders
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_manifest
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugMainManifest
+³   ³   ³   ³               AndroidManifest.xml
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmerged_manifests
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugManifest
+³   ³   ³   ³               AndroidManifest.xml
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmerged_native_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugNativeLibs
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ÀÄÄÄlib
+³   ³   ³   ³                   ÃÄÄÄarm64-v8a
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄarmeabi
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄarmeabi-v7a
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄmips
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄx86
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÀÄÄÄx86_64
+³   ³   ³   ³                           libdatastore_shared_counter.so
+³   ³   ³   ³                           libjniPdfium.so
+³   ³   ³   ³                           libmodft2.so
+³   ³   ³   ³                           libmodpdfium.so
+³   ³   ³   ³                           libmodpng.so
+³   ³   ³   ³                           
+³   ³   ³   ÃÄÄÄmerged_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³               drawable-v24_ic_launcher_foreground.xml.flat
+³   ³   ³   ³               drawable_back01.png.flat
+³   ³   ³   ³               drawable_baseline_arrow_back_white.xml.flat
+³   ³   ³   ³               drawable_baseline_attach_file_white.xml.flat
+³   ³   ³   ³               drawable_baseline_category_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_category_white.xml.flat
+³   ³   ³   ³               drawable_baseline_delete_white.xml.flat
+³   ³   ³   ³               drawable_baseline_email_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_file_download_white.xml.flat
+³   ³   ³   ³               drawable_baseline_keyboard_arrow_down_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_lock_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_logout_white.xml.flat
+³   ³   ³   ³               drawable_baseline_menu_book_white.xml.flat
+³   ³   ³   ³               drawable_baseline_more_vert_black.xml.flat
+³   ³   ³   ³               drawable_baseline_person_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_picture_as_pdf_gray.xml.flat
+³   ³   ³   ³               drawable_baseline_picture_as_pdf_white.xml.flat
+³   ³   ³   ³               drawable_baseline_search_gray.xml.flat
+³   ³   ³   ³               drawable_ic_launcher_background.xml.flat
+³   ³   ³   ³               drawable_logo.png.flat
+³   ³   ³   ³               drawable_shape_button01.xml.flat
+³   ³   ³   ³               drawable_shape_button02.xml.flat
+³   ³   ³   ³               drawable_shape_button03.xml.flat
+³   ³   ³   ³               drawable_shape_edittext01.xml.flat
+³   ³   ³   ³               drawable_shape_toolbar01.xml.flat
+³   ³   ³   ³               drawable_shape_toolbar02.xml.flat
+³   ³   ³   ³               drawable_tab_background_selected.xml.flat
+³   ³   ³   ³               drawable_tab_background_unselected.xml.flat
+³   ³   ³   ³               drawable_tab_selector.xml.flat
+³   ³   ³   ³               layout_activity_category_add.xml.flat
+³   ³   ³   ³               layout_activity_dashboard_admin.xml.flat
+³   ³   ³   ³               layout_activity_dashboard_user.xml.flat
+³   ³   ³   ³               layout_activity_forgot_password.xml.flat
+³   ³   ³   ³               layout_activity_login.xml.flat
+³   ³   ³   ³               layout_activity_main.xml.flat
+³   ³   ³   ³               layout_activity_pdf_add.xml.flat
+³   ³   ³   ³               layout_activity_pdf_detail.xml.flat
+³   ³   ³   ³               layout_activity_pdf_edit.xml.flat
+³   ³   ³   ³               layout_activity_pdf_list_admin.xml.flat
+³   ³   ³   ³               layout_activity_pdf_view.xml.flat
+³   ³   ³   ³               layout_activity_register.xml.flat
+³   ³   ³   ³               layout_activity_splash.xml.flat
+³   ³   ³   ³               layout_fragment_book_user.xml.flat
+³   ³   ³   ³               layout_row_category.xml.flat
+³   ³   ³   ³               layout_row_pdf_admin.xml.flat
+³   ³   ³   ³               layout_row_pdf_user.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher.xml.flat
+³   ³   ³   ³               mipmap-anydpi-v26_ic_launcher_round.xml.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher.webp.flat
+³   ³   ³   ³               mipmap-hdpi_ic_launcher_round.webp.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher.webp.flat
+³   ³   ³   ³               mipmap-mdpi_ic_launcher_round.webp.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher.webp.flat
+³   ³   ³   ³               mipmap-xhdpi_ic_launcher_round.webp.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher.webp.flat
+³   ³   ³   ³               mipmap-xxhdpi_ic_launcher_round.webp.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher.webp.flat
+³   ³   ³   ³               mipmap-xxxhdpi_ic_launcher_round.webp.flat
+³   ³   ³   ³               values-af_values-af.arsc.flat
+³   ³   ³   ³               values-am_values-am.arsc.flat
+³   ³   ³   ³               values-ar_values-ar.arsc.flat
+³   ³   ³   ³               values-as_values-as.arsc.flat
+³   ³   ³   ³               values-az_values-az.arsc.flat
+³   ³   ³   ³               values-b+es+419_values-b+es+419.arsc.flat
+³   ³   ³   ³               values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+³   ³   ³   ³               values-be_values-be.arsc.flat
+³   ³   ³   ³               values-bg_values-bg.arsc.flat
+³   ³   ³   ³               values-bn_values-bn.arsc.flat
+³   ³   ³   ³               values-bs_values-bs.arsc.flat
+³   ³   ³   ³               values-ca_values-ca.arsc.flat
+³   ³   ³   ³               values-cs_values-cs.arsc.flat
+³   ³   ³   ³               values-da_values-da.arsc.flat
+³   ³   ³   ³               values-de_values-de.arsc.flat
+³   ³   ³   ³               values-el_values-el.arsc.flat
+³   ³   ³   ³               values-en-rAU_values-en-rAU.arsc.flat
+³   ³   ³   ³               values-en-rCA_values-en-rCA.arsc.flat
+³   ³   ³   ³               values-en-rGB_values-en-rGB.arsc.flat
+³   ³   ³   ³               values-en-rIN_values-en-rIN.arsc.flat
+³   ³   ³   ³               values-en-rXC_values-en-rXC.arsc.flat
+³   ³   ³   ³               values-es-rUS_values-es-rUS.arsc.flat
+³   ³   ³   ³               values-es_values-es.arsc.flat
+³   ³   ³   ³               values-et_values-et.arsc.flat
+³   ³   ³   ³               values-eu_values-eu.arsc.flat
+³   ³   ³   ³               values-fa_values-fa.arsc.flat
+³   ³   ³   ³               values-fi_values-fi.arsc.flat
+³   ³   ³   ³               values-fr-rCA_values-fr-rCA.arsc.flat
+³   ³   ³   ³               values-fr_values-fr.arsc.flat
+³   ³   ³   ³               values-gl_values-gl.arsc.flat
+³   ³   ³   ³               values-gu_values-gu.arsc.flat
+³   ³   ³   ³               values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+³   ³   ³   ³               values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+³   ³   ³   ³               values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+³   ³   ³   ³               values-h720dp-v13_values-h720dp-v13.arsc.flat
+³   ³   ³   ³               values-hdpi-v4_values-hdpi-v4.arsc.flat
+³   ³   ³   ³               values-hi_values-hi.arsc.flat
+³   ³   ³   ³               values-hr_values-hr.arsc.flat
+³   ³   ³   ³               values-hu_values-hu.arsc.flat
+³   ³   ³   ³               values-hy_values-hy.arsc.flat
+³   ³   ³   ³               values-in_values-in.arsc.flat
+³   ³   ³   ³               values-is_values-is.arsc.flat
+³   ³   ³   ³               values-it_values-it.arsc.flat
+³   ³   ³   ³               values-iw_values-iw.arsc.flat
+³   ³   ³   ³               values-ja_values-ja.arsc.flat
+³   ³   ³   ³               values-ka_values-ka.arsc.flat
+³   ³   ³   ³               values-kk_values-kk.arsc.flat
+³   ³   ³   ³               values-km_values-km.arsc.flat
+³   ³   ³   ³               values-kn_values-kn.arsc.flat
+³   ³   ³   ³               values-ko_values-ko.arsc.flat
+³   ³   ³   ³               values-ky_values-ky.arsc.flat
+³   ³   ³   ³               values-land_values-land.arsc.flat
+³   ³   ³   ³               values-large-v4_values-large-v4.arsc.flat
+³   ³   ³   ³               values-ldltr-v21_values-ldltr-v21.arsc.flat
+³   ³   ³   ³               values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+³   ³   ³   ³               values-lo_values-lo.arsc.flat
+³   ³   ³   ³               values-lt_values-lt.arsc.flat
+³   ³   ³   ³               values-lv_values-lv.arsc.flat
+³   ³   ³   ³               values-mk_values-mk.arsc.flat
+³   ³   ³   ³               values-ml_values-ml.arsc.flat
+³   ³   ³   ³               values-mn_values-mn.arsc.flat
+³   ³   ³   ³               values-mr_values-mr.arsc.flat
+³   ³   ³   ³               values-ms_values-ms.arsc.flat
+³   ³   ³   ³               values-my_values-my.arsc.flat
+³   ³   ³   ³               values-nb_values-nb.arsc.flat
+³   ³   ³   ³               values-ne_values-ne.arsc.flat
+³   ³   ³   ³               values-night-v8_values-night-v8.arsc.flat
+³   ³   ³   ³               values-nl_values-nl.arsc.flat
+³   ³   ³   ³               values-or_values-or.arsc.flat
+³   ³   ³   ³               values-pa_values-pa.arsc.flat
+³   ³   ³   ³               values-pl_values-pl.arsc.flat
+³   ³   ³   ³               values-port_values-port.arsc.flat
+³   ³   ³   ³               values-pt-rBR_values-pt-rBR.arsc.flat
+³   ³   ³   ³               values-pt-rPT_values-pt-rPT.arsc.flat
+³   ³   ³   ³               values-pt_values-pt.arsc.flat
+³   ³   ³   ³               values-ro_values-ro.arsc.flat
+³   ³   ³   ³               values-ru_values-ru.arsc.flat
+³   ³   ³   ³               values-si_values-si.arsc.flat
+³   ³   ³   ³               values-sk_values-sk.arsc.flat
+³   ³   ³   ³               values-sl_values-sl.arsc.flat
+³   ³   ³   ³               values-small-v4_values-small-v4.arsc.flat
+³   ³   ³   ³               values-sq_values-sq.arsc.flat
+³   ³   ³   ³               values-sr_values-sr.arsc.flat
+³   ³   ³   ³               values-sv_values-sv.arsc.flat
+³   ³   ³   ³               values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+³   ³   ³   ³               values-sw_values-sw.arsc.flat
+³   ³   ³   ³               values-ta_values-ta.arsc.flat
+³   ³   ³   ³               values-te_values-te.arsc.flat
+³   ³   ³   ³               values-th_values-th.arsc.flat
+³   ³   ³   ³               values-tl_values-tl.arsc.flat
+³   ³   ³   ³               values-tr_values-tr.arsc.flat
+³   ³   ³   ³               values-uk_values-uk.arsc.flat
+³   ³   ³   ³               values-ur_values-ur.arsc.flat
+³   ³   ³   ³               values-uz_values-uz.arsc.flat
+³   ³   ³   ³               values-v16_values-v16.arsc.flat
+³   ³   ³   ³               values-v17_values-v17.arsc.flat
+³   ³   ³   ³               values-v18_values-v18.arsc.flat
+³   ³   ³   ³               values-v21_values-v21.arsc.flat
+³   ³   ³   ³               values-v22_values-v22.arsc.flat
+³   ³   ³   ³               values-v23_values-v23.arsc.flat
+³   ³   ³   ³               values-v24_values-v24.arsc.flat
+³   ³   ³   ³               values-v25_values-v25.arsc.flat
+³   ³   ³   ³               values-v26_values-v26.arsc.flat
+³   ³   ³   ³               values-v28_values-v28.arsc.flat
+³   ³   ³   ³               values-v31_values-v31.arsc.flat
+³   ³   ³   ³               values-v34_values-v34.arsc.flat
+³   ³   ³   ³               values-vi_values-vi.arsc.flat
+³   ³   ³   ³               values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+³   ³   ³   ³               values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+³   ³   ³   ³               values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat
+³   ³   ³   ³               values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+³   ³   ³   ³               values-watch-v20_values-watch-v20.arsc.flat
+³   ³   ³   ³               values-watch-v21_values-watch-v21.arsc.flat
+³   ³   ³   ³               values-xlarge-v4_values-xlarge-v4.arsc.flat
+³   ³   ³   ³               values-zh-rCN_values-zh-rCN.arsc.flat
+³   ³   ³   ³               values-zh-rHK_values-zh-rHK.arsc.flat
+³   ³   ³   ³               values-zh-rTW_values-zh-rTW.arsc.flat
+³   ³   ³   ³               values-zu_values-zu.arsc.flat
+³   ³   ³   ³               values_values.arsc.flat
+³   ³   ³   ³               xml_backup_rules.xml.flat
+³   ³   ³   ³               xml_data_extraction_rules.xml.flat
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄmerged_res_blame_folder
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugResources
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ÃÄÄÄmulti-v2
+³   ³   ³   ³               ³       mergeDebugResources.json
+³   ³   ³   ³               ³       values-af.json
+³   ³   ³   ³               ³       values-am.json
+³   ³   ³   ³               ³       values-ar.json
+³   ³   ³   ³               ³       values-as.json
+³   ³   ³   ³               ³       values-az.json
+³   ³   ³   ³               ³       values-b+es+419.json
+³   ³   ³   ³               ³       values-b+sr+Latn.json
+³   ³   ³   ³               ³       values-be.json
+³   ³   ³   ³               ³       values-bg.json
+³   ³   ³   ³               ³       values-bn.json
+³   ³   ³   ³               ³       values-bs.json
+³   ³   ³   ³               ³       values-ca.json
+³   ³   ³   ³               ³       values-cs.json
+³   ³   ³   ³               ³       values-da.json
+³   ³   ³   ³               ³       values-de.json
+³   ³   ³   ³               ³       values-el.json
+³   ³   ³   ³               ³       values-en-rAU.json
+³   ³   ³   ³               ³       values-en-rCA.json
+³   ³   ³   ³               ³       values-en-rGB.json
+³   ³   ³   ³               ³       values-en-rIN.json
+³   ³   ³   ³               ³       values-en-rXC.json
+³   ³   ³   ³               ³       values-es-rUS.json
+³   ³   ³   ³               ³       values-es.json
+³   ³   ³   ³               ³       values-et.json
+³   ³   ³   ³               ³       values-eu.json
+³   ³   ³   ³               ³       values-fa.json
+³   ³   ³   ³               ³       values-fi.json
+³   ³   ³   ³               ³       values-fr-rCA.json
+³   ³   ³   ³               ³       values-fr.json
+³   ³   ³   ³               ³       values-gl.json
+³   ³   ³   ³               ³       values-gu.json
+³   ³   ³   ³               ³       values-h320dp-port-v13.json
+³   ³   ³   ³               ³       values-h360dp-land-v13.json
+³   ³   ³   ³               ³       values-h480dp-land-v13.json
+³   ³   ³   ³               ³       values-h550dp-port-v13.json
+³   ³   ³   ³               ³       values-h720dp-v13.json
+³   ³   ³   ³               ³       values-hdpi-v4.json
+³   ³   ³   ³               ³       values-hi.json
+³   ³   ³   ³               ³       values-hr.json
+³   ³   ³   ³               ³       values-hu.json
+³   ³   ³   ³               ³       values-hy.json
+³   ³   ³   ³               ³       values-in.json
+³   ³   ³   ³               ³       values-is.json
+³   ³   ³   ³               ³       values-it.json
+³   ³   ³   ³               ³       values-iw.json
+³   ³   ³   ³               ³       values-ja.json
+³   ³   ³   ³               ³       values-ka.json
+³   ³   ³   ³               ³       values-kk.json
+³   ³   ³   ³               ³       values-km.json
+³   ³   ³   ³               ³       values-kn.json
+³   ³   ³   ³               ³       values-ko.json
+³   ³   ³   ³               ³       values-ky.json
+³   ³   ³   ³               ³       values-land.json
+³   ³   ³   ³               ³       values-large-v4.json
+³   ³   ³   ³               ³       values-ldltr-v21.json
+³   ³   ³   ³               ³       values-ldrtl-v17.json
+³   ³   ³   ³               ³       values-lo.json
+³   ³   ³   ³               ³       values-lt.json
+³   ³   ³   ³               ³       values-lv.json
+³   ³   ³   ³               ³       values-mk.json
+³   ³   ³   ³               ³       values-ml.json
+³   ³   ³   ³               ³       values-mn.json
+³   ³   ³   ³               ³       values-mr.json
+³   ³   ³   ³               ³       values-ms.json
+³   ³   ³   ³               ³       values-my.json
+³   ³   ³   ³               ³       values-nb.json
+³   ³   ³   ³               ³       values-ne.json
+³   ³   ³   ³               ³       values-night-v8.json
+³   ³   ³   ³               ³       values-nl.json
+³   ³   ³   ³               ³       values-or.json
+³   ³   ³   ³               ³       values-pa.json
+³   ³   ³   ³               ³       values-pl.json
+³   ³   ³   ³               ³       values-port.json
+³   ³   ³   ³               ³       values-pt-rBR.json
+³   ³   ³   ³               ³       values-pt-rPT.json
+³   ³   ³   ³               ³       values-pt.json
+³   ³   ³   ³               ³       values-ro.json
+³   ³   ³   ³               ³       values-ru.json
+³   ³   ³   ³               ³       values-si.json
+³   ³   ³   ³               ³       values-sk.json
+³   ³   ³   ³               ³       values-sl.json
+³   ³   ³   ³               ³       values-small-v4.json
+³   ³   ³   ³               ³       values-sq.json
+³   ³   ³   ³               ³       values-sr.json
+³   ³   ³   ³               ³       values-sv.json
+³   ³   ³   ³               ³       values-sw.json
+³   ³   ³   ³               ³       values-sw600dp-v13.json
+³   ³   ³   ³               ³       values-ta.json
+³   ³   ³   ³               ³       values-te.json
+³   ³   ³   ³               ³       values-th.json
+³   ³   ³   ³               ³       values-tl.json
+³   ³   ³   ³               ³       values-tr.json
+³   ³   ³   ³               ³       values-uk.json
+³   ³   ³   ³               ³       values-ur.json
+³   ³   ³   ³               ³       values-uz.json
+³   ³   ³   ³               ³       values-v16.json
+³   ³   ³   ³               ³       values-v17.json
+³   ³   ³   ³               ³       values-v18.json
+³   ³   ³   ³               ³       values-v21.json
+³   ³   ³   ³               ³       values-v22.json
+³   ³   ³   ³               ³       values-v23.json
+³   ³   ³   ³               ³       values-v24.json
+³   ³   ³   ³               ³       values-v25.json
+³   ³   ³   ³               ³       values-v26.json
+³   ³   ³   ³               ³       values-v28.json
+³   ³   ³   ³               ³       values-v31.json
+³   ³   ³   ³               ³       values-v34.json
+³   ³   ³   ³               ³       values-vi.json
+³   ³   ³   ³               ³       values-w320dp-land-v13.json
+³   ³   ³   ³               ³       values-w360dp-port-v13.json
+³   ³   ³   ³               ³       values-w400dp-port-v13.json
+³   ³   ³   ³               ³       values-w600dp-land-v13.json
+³   ³   ³   ³               ³       values-watch-v20.json
+³   ³   ³   ³               ³       values-watch-v21.json
+³   ³   ³   ³               ³       values-xlarge-v4.json
+³   ³   ³   ³               ³       values-zh-rCN.json
+³   ³   ³   ³               ³       values-zh-rHK.json
+³   ³   ³   ³               ³       values-zh-rTW.json
+³   ³   ³   ³               ³       values-zu.json
+³   ³   ³   ³               ³       values.json
+³   ³   ³   ³               ³       
+³   ³   ³   ³               ÀÄÄÄsingle
+³   ³   ³   ³                       layout.json
+³   ³   ³   ³                       mergeDebugResources.json
+³   ³   ³   ³                       
+³   ³   ³   ÃÄÄÄmerged_shaders
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugShaders
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmerged_test_only_native_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmergeDebugNativeLibs
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄmixed_scope_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄnavigation_json
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄextractDeepLinksDebug
+³   ³   ³   ³               navigation.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄnested_resources_validation_report
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄgenerateDebugResources
+³   ³   ³   ³               nestedResourcesValidationReport.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpackaged_manifests
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugManifestForPackage
+³   ³   ³   ³               AndroidManifest.xml
+³   ³   ³   ³               output-metadata.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄpackaged_res
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄpackageDebugResources
+³   ³   ³   ³           ÃÄÄÄdrawable
+³   ³   ³   ³           ³       back01.png
+³   ³   ³   ³           ³       baseline_arrow_back_white.xml
+³   ³   ³   ³           ³       baseline_attach_file_white.xml
+³   ³   ³   ³           ³       baseline_category_gray.xml
+³   ³   ³   ³           ³       baseline_category_white.xml
+³   ³   ³   ³           ³       baseline_delete_white.xml
+³   ³   ³   ³           ³       baseline_email_gray.xml
+³   ³   ³   ³           ³       baseline_file_download_white.xml
+³   ³   ³   ³           ³       baseline_keyboard_arrow_down_gray.xml
+³   ³   ³   ³           ³       baseline_lock_gray.xml
+³   ³   ³   ³           ³       baseline_logout_white.xml
+³   ³   ³   ³           ³       baseline_menu_book_white.xml
+³   ³   ³   ³           ³       baseline_more_vert_black.xml
+³   ³   ³   ³           ³       baseline_person_gray.xml
+³   ³   ³   ³           ³       baseline_picture_as_pdf_gray.xml
+³   ³   ³   ³           ³       baseline_picture_as_pdf_white.xml
+³   ³   ³   ³           ³       baseline_search_gray.xml
+³   ³   ³   ³           ³       ic_launcher_background.xml
+³   ³   ³   ³           ³       logo.png
+³   ³   ³   ³           ³       shape_button01.xml
+³   ³   ³   ³           ³       shape_button02.xml
+³   ³   ³   ³           ³       shape_button03.xml
+³   ³   ³   ³           ³       shape_edittext01.xml
+³   ³   ³   ³           ³       shape_toolbar01.xml
+³   ³   ³   ³           ³       shape_toolbar02.xml
+³   ³   ³   ³           ³       tab_background_selected.xml
+³   ³   ³   ³           ³       tab_background_unselected.xml
+³   ³   ³   ³           ³       tab_selector.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄdrawable-v24
+³   ³   ³   ³           ³       ic_launcher_foreground.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄlayout
+³   ³   ³   ³           ³       activity_category_add.xml
+³   ³   ³   ³           ³       activity_dashboard_admin.xml
+³   ³   ³   ³           ³       activity_dashboard_user.xml
+³   ³   ³   ³           ³       activity_forgot_password.xml
+³   ³   ³   ³           ³       activity_login.xml
+³   ³   ³   ³           ³       activity_main.xml
+³   ³   ³   ³           ³       activity_pdf_add.xml
+³   ³   ³   ³           ³       activity_pdf_detail.xml
+³   ³   ³   ³           ³       activity_pdf_edit.xml
+³   ³   ³   ³           ³       activity_pdf_list_admin.xml
+³   ³   ³   ³           ³       activity_pdf_view.xml
+³   ³   ³   ³           ³       activity_register.xml
+³   ³   ³   ³           ³       activity_splash.xml
+³   ³   ³   ³           ³       fragment_book_user.xml
+³   ³   ³   ³           ³       row_category.xml
+³   ³   ³   ³           ³       row_pdf_admin.xml
+³   ³   ³   ³           ³       row_pdf_user.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-anydpi-v26
+³   ³   ³   ³           ³       ic_launcher.xml
+³   ³   ³   ³           ³       ic_launcher_round.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-hdpi-v4
+³   ³   ³   ³           ³       ic_launcher.webp
+³   ³   ³   ³           ³       ic_launcher_round.webp
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-mdpi-v4
+³   ³   ³   ³           ³       ic_launcher.webp
+³   ³   ³   ³           ³       ic_launcher_round.webp
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-xhdpi-v4
+³   ³   ³   ³           ³       ic_launcher.webp
+³   ³   ³   ³           ³       ic_launcher_round.webp
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-xxhdpi-v4
+³   ³   ³   ³           ³       ic_launcher.webp
+³   ³   ³   ³           ³       ic_launcher_round.webp
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄmipmap-xxxhdpi-v4
+³   ³   ³   ³           ³       ic_launcher.webp
+³   ³   ³   ³           ³       ic_launcher_round.webp
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄvalues
+³   ³   ³   ³           ³       values.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÃÄÄÄvalues-night-v8
+³   ³   ³   ³           ³       values-night-v8.xml
+³   ³   ³   ³           ³       
+³   ³   ³   ³           ÀÄÄÄxml
+³   ³   ³   ³                   backup_rules.xml
+³   ³   ³   ³                   data_extraction_rules.xml
+³   ³   ³   ³                   
+³   ³   ³   ÃÄÄÄproject_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ³   8459789deff3e1af9deb0dda2662b725aaf92f16e6c7a5c3aa6604239ff773e5_0.jar
+³   ³   ³   ³               ³   8459789deff3e1af9deb0dda2662b725aaf92f16e6c7a5c3aa6604239ff773e5_1.jar
+³   ³   ³   ³               ³   8459789deff3e1af9deb0dda2662b725aaf92f16e6c7a5c3aa6604239ff773e5_2.jar
+³   ³   ³   ³               ³   8459789deff3e1af9deb0dda2662b725aaf92f16e6c7a5c3aa6604239ff773e5_3.jar
+³   ³   ³   ³               ³   
+³   ³   ³   ³               ÀÄÄÄcom
+³   ³   ³   ³                   ÀÄÄÄexample
+³   ³   ³   ³                       ÀÄÄÄbookapp
+³   ³   ³   ³                           ³   AdapterCategory$HolderCategory.dex
+³   ³   ³   ³                           ³   AdapterCategory.dex
+³   ³   ³   ³                           ³   AdapterPdfAdmin$HolderPdfAdmin.dex
+³   ³   ³   ³                           ³   AdapterPdfAdmin.dex
+³   ³   ³   ³                           ³   AdapterPdfUser$HolderPdfUser.dex
+³   ³   ³   ³                           ³   AdapterPdfUser.dex
+³   ³   ³   ³                           ³   BookUserFragment$Companion.dex
+³   ³   ³   ³                           ³   BookUserFragment$loadAllBooks$1.dex
+³   ³   ³   ³                           ³   BookUserFragment$loadCategorizedBooks$1.dex
+³   ³   ³   ³                           ³   BookUserFragment$loadMostViewedDownloadedBooks$1.dex
+³   ³   ³   ³                           ³   BookUserFragment$onCreateView$$inlined$addTextChangedListener$default$1.dex
+³   ³   ³   ³                           ³   BookUserFragment$onCreateView$1$1.dex
+³   ³   ³   ³                           ³   BookUserFragment.dex
+³   ³   ³   ³                           ³   CategoryAddActivity.dex
+³   ³   ³   ³                           ³   Constants.dex
+³   ³   ³   ³                           ³   DashboardAdminActivity$loadCategories$1.dex
+³   ³   ³   ³                           ³   DashboardAdminActivity$onCreate$1.dex
+³   ³   ³   ³                           ³   DashboardAdminActivity.dex
+³   ³   ³   ³                           ³   DashboardUserActivity$setupWithViewPagerAdapter$1.dex
+³   ³   ³   ³                           ³   DashboardUserActivity$ViewPagerAdapter.dex
+³   ³   ³   ³                           ³   DashboardUserActivity.dex
+³   ³   ³   ³                           ³   FilterCategory.dex
+³   ³   ³   ³                           ³   FilterPdfAdmin.dex
+³   ³   ³   ³                           ³   FilterPdfUser.dex
+³   ³   ³   ³                           ³   ForgotPasswordActivity.dex
+³   ³   ³   ³                           ³   LoginActivity$checkUser$1.dex
+³   ³   ³   ³                           ³   LoginActivity.dex
+³   ³   ³   ³                           ³   MainActivity.dex
+³   ³   ³   ³                           ³   ModelCategory.dex
+³   ³   ³   ³                           ³   ModelPdf.dex
+³   ³   ³   ³                           ³   MyApplication$Companion$incrementBookViewsCount$1.dex
+³   ³   ³   ³                           ³   MyApplication$Companion$loadCategory$1.dex
+³   ³   ³   ³                           ³   MyApplication$Companion.dex
+³   ³   ³   ³                           ³   MyApplication.dex
+³   ³   ³   ³                           ³   PdfAddActivity$loadPdfCategories$1.dex
+³   ³   ³   ³                           ³   PdfAddActivity.dex
+³   ³   ³   ³                           ³   PdfDetailActivity$Companion.dex
+³   ³   ³   ³                           ³   PdfDetailActivity$incrementDownloadsCount$1.dex
+³   ³   ³   ³                           ³   PdfDetailActivity$loadBookDetails$1.dex
+³   ³   ³   ³                           ³   PdfDetailActivity.dex
+³   ³   ³   ³                           ³   PdfEditActivity$Companion.dex
+³   ³   ³   ³                           ³   PdfEditActivity$loadBookInfo$1$onDataChange$1.dex
+³   ³   ³   ³                           ³   PdfEditActivity$loadBookInfo$1.dex
+³   ³   ³   ³                           ³   PdfEditActivity$loadCategories$1.dex
+³   ³   ³   ³                           ³   PdfEditActivity.dex
+³   ³   ³   ³                           ³   PdfListAdminActivity$Companion.dex
+³   ³   ³   ³                           ³   PdfListAdminActivity$loadPdfList$1.dex
+³   ³   ³   ³                           ³   PdfListAdminActivity$onCreate$1.dex
+³   ³   ³   ³                           ³   PdfListAdminActivity.dex
+³   ³   ³   ³                           ³   PdfViewActivity$Companion.dex
+³   ³   ³   ³                           ³   PdfViewActivity$loadBookDetails$1.dex
+³   ³   ³   ³                           ³   PdfViewActivity.dex
+³   ³   ³   ³                           ³   RegisterActivity.dex
+³   ³   ³   ³                           ³   SplashActivity$checkUser$1.dex
+³   ³   ³   ³                           ³   SplashActivity.dex
+³   ³   ³   ³                           ³   
+³   ³   ³   ³                           ÀÄÄÄdatabinding
+³   ³   ³   ³                                   ActivityCategoryAddBinding.dex
+³   ³   ³   ³                                   ActivityDashboardAdminBinding.dex
+³   ³   ³   ³                                   ActivityDashboardUserBinding.dex
+³   ³   ³   ³                                   ActivityForgotPasswordBinding.dex
+³   ³   ³   ³                                   ActivityLoginBinding.dex
+³   ³   ³   ³                                   ActivityMainBinding.dex
+³   ³   ³   ³                                   ActivityPdfAddBinding.dex
+³   ³   ³   ³                                   ActivityPdfDetailBinding.dex
+³   ³   ³   ³                                   ActivityPdfEditBinding.dex
+³   ³   ³   ³                                   ActivityPdfListAdminBinding.dex
+³   ³   ³   ³                                   ActivityPdfViewBinding.dex
+³   ³   ³   ³                                   ActivityRegisterBinding.dex
+³   ³   ³   ³                                   ActivitySplashBinding.dex
+³   ³   ³   ³                                   FragmentBookUserBinding.dex
+³   ³   ³   ³                                   RowCategoryBinding.dex
+³   ³   ³   ³                                   RowPdfAdminBinding.dex
+³   ³   ³   ³                                   RowPdfUserBinding.dex
+³   ³   ³   ³                                   
+³   ³   ³   ÃÄÄÄruntime_symbol_list
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³               R.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄsigning_config_versions
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄwriteDebugSigningConfigVersions
+³   ³   ³   ³               signing-config-versions.json
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄsource_set_path_map
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄmapDebugSourceSetPaths
+³   ³   ³   ³               file-map.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄstable_resource_ids_file
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³               stableIds.txt
+³   ³   ³   ³               
+³   ³   ³   ÃÄÄÄstripped_native_libs
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄstripDebugDebugSymbols
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ³               ÀÄÄÄlib
+³   ³   ³   ³                   ÃÄÄÄarm64-v8a
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄarmeabi
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄarmeabi-v7a
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄmips
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÃÄÄÄx86
+³   ³   ³   ³                   ³       libdatastore_shared_counter.so
+³   ³   ³   ³                   ³       libjniPdfium.so
+³   ³   ³   ³                   ³       libmodft2.so
+³   ³   ³   ³                   ³       libmodpdfium.so
+³   ³   ³   ³                   ³       libmodpng.so
+³   ³   ³   ³                   ³       
+³   ³   ³   ³                   ÀÄÄÄx86_64
+³   ³   ³   ³                           libdatastore_shared_counter.so
+³   ³   ³   ³                           libjniPdfium.so
+³   ³   ³   ³                           libmodft2.so
+³   ³   ³   ³                           libmodpdfium.so
+³   ³   ³   ³                           libmodpng.so
+³   ³   ³   ³                           
+³   ³   ³   ÃÄÄÄsub_project_dex_archive
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄdexBuilderDebug
+³   ³   ³   ³           ÀÄÄÄout
+³   ³   ³   ÃÄÄÄsymbol_list_with_package_name
+³   ³   ³   ³   ÀÄÄÄdebug
+³   ³   ³   ³       ÀÄÄÄprocessDebugResources
+³   ³   ³   ³               package-aware-r.txt
+³   ³   ³   ³               
+³   ³   ³   ÀÄÄÄvalidate_signing_config
+³   ³   ³       ÀÄÄÄdebug
+³   ³   ³           ÀÄÄÄvalidateSigningDebug
+³   ³   ÃÄÄÄkotlin
+³   ³   ³   ÀÄÄÄcompileDebugKotlin
+³   ³   ³       ÃÄÄÄcacheable
+³   ³   ³       ³   ³   last-build.bin
+³   ³   ³       ³   ³   
+³   ³   ³       ³   ÀÄÄÄcaches-jvm
+³   ³   ³       ³       ÃÄÄÄinputs
+³   ³   ³       ³       ³       source-to-output.tab
+³   ³   ³       ³       ³       source-to-output.tab.keystream
+³   ³   ³       ³       ³       source-to-output.tab.keystream.len
+³   ³   ³       ³       ³       source-to-output.tab.len
+³   ³   ³       ³       ³       source-to-output.tab.values.at
+³   ³   ³       ³       ³       source-to-output.tab_i
+³   ³   ³       ³       ³       source-to-output.tab_i.len
+³   ³   ³       ³       ³       
+³   ³   ³       ³       ÃÄÄÄjvm
+³   ³   ³       ³       ³   ÀÄÄÄkotlin
+³   ³   ³       ³       ³           class-attributes.tab
+³   ³   ³       ³       ³           class-attributes.tab.keystream
+³   ³   ³       ³       ³           class-attributes.tab.keystream.len
+³   ³   ³       ³       ³           class-attributes.tab.len
+³   ³   ³       ³       ³           class-attributes.tab.values.at
+³   ³   ³       ³       ³           class-attributes.tab_i
+³   ³   ³       ³       ³           class-attributes.tab_i.len
+³   ³   ³       ³       ³           class-fq-name-to-source.tab
+³   ³   ³       ³       ³           class-fq-name-to-source.tab.keystream
+³   ³   ³       ³       ³           class-fq-name-to-source.tab.keystream.len
+³   ³   ³       ³       ³           class-fq-name-to-source.tab.len
+³   ³   ³       ³       ³           class-fq-name-to-source.tab.values.at
+³   ³   ³       ³       ³           class-fq-name-to-source.tab_i
+³   ³   ³       ³       ³           class-fq-name-to-source.tab_i.len
+³   ³   ³       ³       ³           constants.tab
+³   ³   ³       ³       ³           constants.tab.keystream
+³   ³   ³       ³       ³           constants.tab.keystream.len
+³   ³   ³       ³       ³           constants.tab.len
+³   ³   ³       ³       ³           constants.tab.values.at
+³   ³   ³       ³       ³           constants.tab_i
+³   ³   ³       ³       ³           constants.tab_i.len
+³   ³   ³       ³       ³           internal-name-to-source.tab
+³   ³   ³       ³       ³           internal-name-to-source.tab.keystream
+³   ³   ³       ³       ³           internal-name-to-source.tab.keystream.len
+³   ³   ³       ³       ³           internal-name-to-source.tab.len
+³   ³   ³       ³       ³           internal-name-to-source.tab.values.at
+³   ³   ³       ³       ³           internal-name-to-source.tab_i
+³   ³   ³       ³       ³           internal-name-to-source.tab_i.len
+³   ³   ³       ³       ³           proto.tab
+³   ³   ³       ³       ³           proto.tab.keystream
+³   ³   ³       ³       ³           proto.tab.keystream.len
+³   ³   ³       ³       ³           proto.tab.len
+³   ³   ³       ³       ³           proto.tab.values
+³   ³   ³       ³       ³           proto.tab.values.at
+³   ³   ³       ³       ³           proto.tab.values.s
+³   ³   ³       ³       ³           proto.tab_i
+³   ³   ³       ³       ³           proto.tab_i.len
+³   ³   ³       ³       ³           source-to-classes.tab
+³   ³   ³       ³       ³           source-to-classes.tab.keystream
+³   ³   ³       ³       ³           source-to-classes.tab.keystream.len
+³   ³   ³       ³       ³           source-to-classes.tab.len
+³   ³   ³       ³       ³           source-to-classes.tab.values.at
+³   ³   ³       ³       ³           source-to-classes.tab_i
+³   ³   ³       ³       ³           source-to-classes.tab_i.len
+³   ³   ³       ³       ³           subtypes.tab
+³   ³   ³       ³       ³           subtypes.tab.keystream
+³   ³   ³       ³       ³           subtypes.tab.keystream.len
+³   ³   ³       ³       ³           subtypes.tab.len
+³   ³   ³       ³       ³           subtypes.tab.values.at
+³   ³   ³       ³       ³           subtypes.tab_i
+³   ³   ³       ³       ³           subtypes.tab_i.len
+³   ³   ³       ³       ³           supertypes.tab
+³   ³   ³       ³       ³           supertypes.tab.keystream
+³   ³   ³       ³       ³           supertypes.tab.keystream.len
+³   ³   ³       ³       ³           supertypes.tab.len
+³   ³   ³       ³       ³           supertypes.tab.values.at
+³   ³   ³       ³       ³           supertypes.tab_i
+³   ³   ³       ³       ³           supertypes.tab_i.len
+³   ³   ³       ³       ³           
+³   ³   ³       ³       ÀÄÄÄlookups
+³   ³   ³       ³               counters.tab
+³   ³   ³       ³               file-to-id.tab
+³   ³   ³       ³               file-to-id.tab.keystream
+³   ³   ³       ³               file-to-id.tab.keystream.len
+³   ³   ³       ³               file-to-id.tab.len
+³   ³   ³       ³               file-to-id.tab.values.at
+³   ³   ³       ³               file-to-id.tab_i
+³   ³   ³       ³               file-to-id.tab_i.len
+³   ³   ³       ³               id-to-file.tab
+³   ³   ³       ³               id-to-file.tab.keystream
+³   ³   ³       ³               id-to-file.tab.keystream.len
+³   ³   ³       ³               id-to-file.tab.len
+³   ³   ³       ³               id-to-file.tab.values.at
+³   ³   ³       ³               id-to-file.tab_i
+³   ³   ³       ³               id-to-file.tab_i.len
+³   ³   ³       ³               lookups.tab
+³   ³   ³       ³               lookups.tab.keystream
+³   ³   ³       ³               lookups.tab.keystream.len
+³   ³   ³       ³               lookups.tab.len
+³   ³   ³       ³               lookups.tab.values
+³   ³   ³       ³               lookups.tab.values.at
+³   ³   ³       ³               lookups.tab.values.s
+³   ³   ³       ³               lookups.tab_i
+³   ³   ³       ³               lookups.tab_i.len
+³   ³   ³       ³               
+³   ³   ³       ÃÄÄÄclasspath-snapshot
+³   ³   ³       ³       shrunk-classpath-snapshot.bin
+³   ³   ³       ³       
+³   ³   ³       ÀÄÄÄlocal-state
+³   ³   ³               build-history.bin
+³   ³   ³               
+³   ³   ÃÄÄÄoutputs
+³   ³   ³   ÀÄÄÄlogs
+³   ³   ³           manifest-merger-debug-report.txt
+³   ³   ³           
+³   ³   ÀÄÄÄtmp
+³   ³       ÃÄÄÄcompileDebugJavaWithJavac
+³   ³       ³   ³   previous-compilation-data.bin
+³   ³       ³   ³   
+³   ³       ³   ÀÄÄÄcompileTransaction
+³   ³       ³       ÃÄÄÄbackup-dir
+³   ³       ³       ÀÄÄÄstash-dir
+³   ³       ³               ActivityCategoryAddBinding.class.uniqueId1
+³   ³       ³               ActivityDashboardAdminBinding.class.uniqueId2
+³   ³       ³               ActivityDashboardUserBinding.class.uniqueId5
+³   ³       ³               ActivityLoginBinding.class.uniqueId7
+³   ³       ³               ActivityMainBinding.class.uniqueId12
+³   ³       ³               ActivityPdfAddBinding.class.uniqueId15
+³   ³       ³               ActivityPdfDetailBinding.class.uniqueId3
+³   ³       ³               ActivityPdfEditBinding.class.uniqueId8
+³   ³       ³               ActivityPdfListAdminBinding.class.uniqueId14
+³   ³       ³               ActivityPdfViewBinding.class.uniqueId13
+³   ³       ³               ActivityRegisterBinding.class.uniqueId10
+³   ³       ³               ActivitySplashBinding.class.uniqueId9
+³   ³       ³               FragmentBookUserBinding.class.uniqueId4
+³   ³       ³               RowCategoryBinding.class.uniqueId11
+³   ³       ³               RowPdfAdminBinding.class.uniqueId0
+³   ³       ³               RowPdfUserBinding.class.uniqueId6
+³   ³       ³               
+³   ³       ÀÄÄÄkotlin-classes
+³   ³           ÀÄÄÄdebug
+³   ³               ÃÄÄÄcom
+³   ³               ³   ÀÄÄÄexample
+³   ³               ³       ÀÄÄÄbookapp
+³   ³               ³               AdapterCategory$HolderCategory.class
+³   ³               ³               AdapterCategory.class
+³   ³               ³               AdapterPdfAdmin$HolderPdfAdmin.class
+³   ³               ³               AdapterPdfAdmin.class
+³   ³               ³               AdapterPdfUser$HolderPdfUser.class
+³   ³               ³               AdapterPdfUser.class
+³   ³               ³               BookUserFragment$Companion.class
+³   ³               ³               BookUserFragment$loadAllBooks$1.class
+³   ³               ³               BookUserFragment$loadCategorizedBooks$1.class
+³   ³               ³               BookUserFragment$loadMostViewedDownloadedBooks$1.class
+³   ³               ³               BookUserFragment$onCreateView$$inlined$addTextChangedListener$default$1.class
+³   ³               ³               BookUserFragment$onCreateView$1$1.class
+³   ³               ³               BookUserFragment.class
+³   ³               ³               CategoryAddActivity.class
+³   ³               ³               Constants.class
+³   ³               ³               DashboardAdminActivity$loadCategories$1.class
+³   ³               ³               DashboardAdminActivity$onCreate$1.class
+³   ³               ³               DashboardAdminActivity.class
+³   ³               ³               DashboardUserActivity$setupWithViewPagerAdapter$1.class
+³   ³               ³               DashboardUserActivity$ViewPagerAdapter.class
+³   ³               ³               DashboardUserActivity.class
+³   ³               ³               FilterCategory.class
+³   ³               ³               FilterPdfAdmin.class
+³   ³               ³               FilterPdfUser.class
+³   ³               ³               ForgotPasswordActivity.class
+³   ³               ³               LoginActivity$checkUser$1.class
+³   ³               ³               LoginActivity.class
+³   ³               ³               MainActivity.class
+³   ³               ³               ModelCategory.class
+³   ³               ³               ModelPdf.class
+³   ³               ³               MyApplication$Companion$incrementBookViewsCount$1.class
+³   ³               ³               MyApplication$Companion$loadCategory$1.class
+³   ³               ³               MyApplication$Companion.class
+³   ³               ³               MyApplication.class
+³   ³               ³               PdfAddActivity$loadPdfCategories$1.class
+³   ³               ³               PdfAddActivity.class
+³   ³               ³               PdfDetailActivity$Companion.class
+³   ³               ³               PdfDetailActivity$incrementDownloadsCount$1.class
+³   ³               ³               PdfDetailActivity$loadBookDetails$1.class
+³   ³               ³               PdfDetailActivity.class
+³   ³               ³               PdfEditActivity$Companion.class
+³   ³               ³               PdfEditActivity$loadBookInfo$1$onDataChange$1.class
+³   ³               ³               PdfEditActivity$loadBookInfo$1.class
+³   ³               ³               PdfEditActivity$loadCategories$1.class
+³   ³               ³               PdfEditActivity.class
+³   ³               ³               PdfListAdminActivity$Companion.class
+³   ³               ³               PdfListAdminActivity$loadPdfList$1.class
+³   ³               ³               PdfListAdminActivity$onCreate$1.class
+³   ³               ³               PdfListAdminActivity.class
+³   ³               ³               PdfViewActivity$Companion.class
+³   ³               ³               PdfViewActivity$loadBookDetails$1.class
+³   ³               ³               PdfViewActivity.class
+³   ³               ³               RegisterActivity.class
+³   ³               ³               SplashActivity$checkUser$1.class
+³   ³               ³               SplashActivity.class
+³   ³               ³               
+³   ³               ÀÄÄÄMETA-INF
+³   ³                       app_debug.kotlin_module
+³   ³                       
+³   ÀÄÄÄsrc
+³       ÃÄÄÄandroidTest
+³       ³   ÀÄÄÄjava
+³       ³       ÀÄÄÄcom
+³       ³           ÀÄÄÄexample
+³       ³               ÀÄÄÄbookapp
+³       ³                       ExampleInstrumentedTest.kt
+³       ³                       
+³       ÃÄÄÄmain
+³       ³   ³   AndroidManifest.xml
+³       ³   ³   
+³       ³   ÃÄÄÄjava
+³       ³   ³   ÀÄÄÄcom
+³       ³   ³       ÀÄÄÄexample
+³       ³   ³           ÀÄÄÄbookapp
+³       ³   ³                   AdapterCategory.kt
+³       ³   ³                   AdapterPdfAdmin.kt
+³       ³   ³                   AdapterPdfUser.kt
+³       ³   ³                   BookUserFragment.kt
+³       ³   ³                   CategoryAddActivity.kt
+³       ³   ³                   Constants.kt
+³       ³   ³                   DashboardAdminActivity.kt
+³       ³   ³                   DashboardUserActivity.kt
+³       ³   ³                   FilterCategory.kt
+³       ³   ³                   FilterPdfAdmin.kt
+³       ³   ³                   FilterPdfUser.kt
+³       ³   ³                   ForgotPasswordActivity.kt
+³       ³   ³                   LoginActivity.kt
+³       ³   ³                   MainActivity.kt
+³       ³   ³                   ModelCategory.kt
+³       ³   ³                   ModelPdf.kt
+³       ³   ³                   MyApplication.kt
+³       ³   ³                   PdfAddActivity.kt
+³       ³   ³                   PdfDetailActivity.kt
+³       ³   ³                   PdfEditActivity.kt
+³       ³   ³                   PdfListAdminActivity.kt
+³       ³   ³                   PdfViewActivity.kt
+³       ³   ³                   RegisterActivity.kt
+³       ³   ³                   SplashActivity.kt
+³       ³   ³                   
+³       ³   ÀÄÄÄres
+³       ³       ÃÄÄÄdrawable
+³       ³       ³       back01.png
+³       ³       ³       baseline_arrow_back_white.xml
+³       ³       ³       baseline_attach_file_white.xml
+³       ³       ³       baseline_category_gray.xml
+³       ³       ³       baseline_category_white.xml
+³       ³       ³       baseline_delete_white.xml
+³       ³       ³       baseline_email_gray.xml
+³       ³       ³       baseline_file_download_white.xml
+³       ³       ³       baseline_keyboard_arrow_down_gray.xml
+³       ³       ³       baseline_lock_gray.xml
+³       ³       ³       baseline_logout_white.xml
+³       ³       ³       baseline_menu_book_white.xml
+³       ³       ³       baseline_more_vert_black.xml
+³       ³       ³       baseline_person_gray.xml
+³       ³       ³       baseline_picture_as_pdf_gray.xml
+³       ³       ³       baseline_picture_as_pdf_white.xml
+³       ³       ³       baseline_search_gray.xml
+³       ³       ³       ic_launcher_background.xml
+³       ³       ³       logo.png
+³       ³       ³       shape_button01.xml
+³       ³       ³       shape_button02.xml
+³       ³       ³       shape_button03.xml
+³       ³       ³       shape_edittext01.xml
+³       ³       ³       shape_toolbar01.xml
+³       ³       ³       shape_toolbar02.xml
+³       ³       ³       tab_background_selected.xml
+³       ³       ³       tab_background_unselected.xml
+³       ³       ³       tab_selector.xml
+³       ³       ³       
+³       ³       ÃÄÄÄdrawable-v24
+³       ³       ³       ic_launcher_foreground.xml
+³       ³       ³       
+³       ³       ÃÄÄÄlayout
+³       ³       ³       activity_category_add.xml
+³       ³       ³       activity_dashboard_admin.xml
+³       ³       ³       activity_dashboard_user.xml
+³       ³       ³       activity_forgot_password.xml
+³       ³       ³       activity_login.xml
+³       ³       ³       activity_main.xml
+³       ³       ³       activity_pdf_add.xml
+³       ³       ³       activity_pdf_detail.xml
+³       ³       ³       activity_pdf_edit.xml
+³       ³       ³       activity_pdf_list_admin.xml
+³       ³       ³       activity_pdf_view.xml
+³       ³       ³       activity_register.xml
+³       ³       ³       activity_splash.xml
+³       ³       ³       fragment_book_user.xml
+³       ³       ³       row_category.xml
+³       ³       ³       row_pdf_admin.xml
+³       ³       ³       row_pdf_user.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-anydpi-v26
+³       ³       ³       ic_launcher.xml
+³       ³       ³       ic_launcher_round.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-hdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-mdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxxhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄvalues
+³       ³       ³       colors.xml
+³       ³       ³       strings.xml
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÃÄÄÄvalues-night
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÀÄÄÄxml
+³       ³               backup_rules.xml
+³       ³               data_extraction_rules.xml
+³       ³               
+³       ÀÄÄÄtest
+³           ÀÄÄÄjava
+³               ÀÄÄÄcom
+³                   ÀÄÄÄexample
+³                       ÀÄÄÄbookapp
+³                               ExampleUnitTest.kt
+³                               
+ÃÄÄÄbuild
+³   ÀÄÄÄreports
+³       ÀÄÄÄproblems
+³               problems-report.html
+³               
+ÀÄÄÄgradle
+    ³   libs.versions.toml
+    ³   
+    ÀÄÄÄwrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            
