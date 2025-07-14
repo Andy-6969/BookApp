@@ -5,7 +5,6 @@ Library Book Application adalah aplikasi mobile yang dirancang untuk memberikan 
 ![Tampilan Aplikasi Library Book](https://github.com/user-attachments/assets/12adb181-2e88-44fc-b1f4-656432fd1f61)
 <img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/070c6b14-d503-4e05-adde-680ed682889d" />
 <img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/5405afcb-8d65-4087-93f2-2a3bf9895901" />
-<img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/97898a22-d392-4219-9c9e-98adb516294c" />
 <img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/d9493cbf-682c-4f66-bb68-792c7678d2ab" />
 <img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/20c5af06-a161-4bec-a127-db5846cea5e9" />
 <img width="195" height="430" alt="image" src="https://github.com/user-attachments/assets/bf43cfd3-235a-439f-9819-b75fef3935cd" />
